@@ -8,7 +8,7 @@ const PORT = 5000;
 
 // Enable CORS for all requests
 app.use(cors({
-    origin: "http://localhost:5173",  // Allow requests from your frontend
+    origin: "https://sharepricetracker.netlify.app/",  // Allow requests from your frontend
     methods: "GET, POST",  // Allowed HTTP methods
     allowedHeaders: "Content-Type, Authorization"  // Allowed headers
 }));
