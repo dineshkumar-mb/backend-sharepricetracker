@@ -1,4 +1,4 @@
-This is a mern share price tracker app that displays live share price of nasdac 
+This is a mern share price tracker app that displays live share price of nasdac . where uses can check the share price of a company in different time frames like intraday ,daily,weekly,monthly.
 
 
 ![Screenshot 2025-03-30 123620](https://github.com/user-attachments/assets/fbe0e3ba-1679-4029-93fd-d79c2ca3dd80)
